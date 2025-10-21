@@ -1,4 +1,4 @@
-# ¡Hola! Soy el ingeniero Juan Cifuentes  
+# ¡Hola! Soy el Ingeniero Juan Cifuentes R.
 
  **Analista de Datos e Ingeniero en Mecatrónica** con enfoque en **IoT, automatización y análisis de datos**.  
 Combino la ingeniería con el poder del software para transformar información en decisiones inteligentes.  
