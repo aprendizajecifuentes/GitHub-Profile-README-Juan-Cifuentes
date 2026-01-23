@@ -19,10 +19,12 @@ Combino la ingeniería con el poder del software para transformar información e
 | Categoría | Tecnologías |
 |------------|--------------|
 |  Lenguajes | Python, Java, C++, HTML |
-|  Bases de Datos | MySQL, PostgreSQL |
-|  Análisis y BI | Power BI, Pandas, NumPy |
-|  Ingeniería | Solid Edge, IoT Systems |
+|  Bases de Datos | MySQL, PostgreSQL,Acces,SQLite  |
+|  Análisis y BI | Power BI, Pandas, NumPy, Tableu |
+|  Ingeniería 3D| Solid Edge, IoT Systems, Proteus, Inventor, Solid Work |
 |  Control de versiones | Git, GitHub |
+|  General | Excel avanzado, Office 365, ChatGPT |
+
 
 ---
 
