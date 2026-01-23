@@ -18,22 +18,23 @@ Combino la ingeniería con el poder del software para transformar información e
 ### Tecnologías y herramientas
 | Categoría | Tecnologías |
 |------------|--------------|
-|  Lenguajes | Python, Java, C++, HTML |
+|  Lenguajes | Python, Java, C++, Arduino, PLC-Lader, Microcontroladores |
 |  Bases de Datos | MySQL, PostgreSQL,Acces,SQLite  |
 |  Análisis y BI | Power BI, Pandas, NumPy, Tableu |
 |  Ingeniería 3D| Solid Edge, IoT Systems, Proteus, Inventor, Solid Work |
 |  Control de versiones | Git, GitHub |
-|  General | Excel avanzado, Office 365, ChatGPT |
+|  General | Excel avanzado, Office 365, Outlook-Profecional |
 
 
 ---
 
 ###  Mis proyectos destacados
--  **Data Pipeline de Ventas** — Limpieza, carga y visualización de datos con Power BI y PostgreSQL.  
+-  **Data Pipeline de Ventas** — Limpieza, carga y visualización de datos con Power BI y PostgreSQL.
+-  **Diseño CAD 3D** — Diseño asistido por computadora (CAD) aplicado a modelos 3D exportables para plataformas digitales..   
 -  **Análisis IoT** — Monitoreo de sensores industriales para mantenimiento predictivo.  
 -  **Automatización inteligente** — Integración de datos de sistemas físicos y análisis en dashboards.  
 
- Puedes verlos en mis repositorios públicos.
+ Puedes verlos en mis repositorios públicos o solicitarlo por correo.
 
 ---
 
